@@ -1,0 +1,13 @@
+name: aaaa
+channels:
+  - default
+dependencies:
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
